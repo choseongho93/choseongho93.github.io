@@ -1,2 +1,2 @@
 # Resume
-https://choseongho93.github.io/
+http://www.seongho.org
