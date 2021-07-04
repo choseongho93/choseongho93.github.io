@@ -1,2 +1,1 @@
-# resume
-www.seongho.org
+ 
