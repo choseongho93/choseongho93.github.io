@@ -1,2 +1,2 @@
 # resume
-seongho.org
+www.seongho.org
