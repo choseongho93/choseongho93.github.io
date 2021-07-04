@@ -2,7 +2,7 @@
   "name": "aa",
   "version": "0.0.0",
   "repository": "https://github.com/choseongho93/choseongho93.github.io.git",
-  "author": "HyunSeob <mail@hyunseob.me>",
+  "author": "choseongho93 <whtjdgh46@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html",
